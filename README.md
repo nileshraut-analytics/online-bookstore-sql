@@ -6,6 +6,11 @@ It focuses on relational modeling, data management, and analytical queries.
 
 ---
 
+## 🎯 Business Objective
+
+Design and analyze a relational database for an online bookstore to extract meaningful business insights such as revenue trends, customer behavior, and inventory performance.
+
+
 ## 🛠 Database Structure
 
 The database consists of three main tables:
