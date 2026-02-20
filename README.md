@@ -1,29 +1,40 @@
 # 📚 Online Bookstore SQL Project
 
 ## 📌 Project Overview
-This project demonstrates SQL database design and business analysis for an online bookstore.  
-It focuses on relational modeling, data management, and analytical queries.
+This project showcases SQL-based database design and business analysis for a simulated online bookstore system.
+
+The project focuses on:
+
+- Relational database modeling
+- Data management
+- Analytical SQL queries
+- Business insight generation
 
 ---
 
 ## 🎯 Business Objective
+Design and analyze a relational database for an online bookstore to extract meaningful business insights, including:
 
-Design and analyze a relational database for an online bookstore to extract meaningful business insights such as revenue trends, customer behavior, and inventory performance.
+- Revenue analysis
+- Customer purchasing behavior
+- Sales trends
+- Inventory evaluation
 
+---
 
 ## 🛠 Database Structure
 
-The database consists of three main tables:
+The database consists of three core tables:
 
-1. **Books**
-2. **Customers**
-3. **Orders**
+- **Books**
+- **Customers**
+- **Orders**
 
-The schema models a real-world bookstore system including:
+The schema models a real-world bookstore environment, capturing:
 
-- Book inventory
-- Customer information
-- Purchase transactions
+✔ Book inventory  
+✔ Customer information  
+✔ Purchase transactions  
 
 ---
 
@@ -35,7 +46,7 @@ The schema models a real-world bookstore system including:
 
 ---
 
-## 🎯 Key SQL Concepts Used
+## 🎯 Key SQL Concepts Applied
 
 ✔ DDL (CREATE, DROP)  
 ✔ DML (INSERT, SELECT)  
@@ -49,9 +60,9 @@ The schema models a real-world bookstore system including:
 
 ---
 
-## 📊 Business Questions Solved
+## 📊 Business Questions Addressed
 
-Examples:
+Examples of analytical queries:
 
 - Total revenue generated
 - Most frequently ordered book
@@ -65,15 +76,12 @@ Examples:
 
 - Database Design
 - Relational Modeling
-- Data Analysis using SQL
-- Writing Business Queries
-- Query Optimization Logic
+- SQL Querying
+- Business-Oriented Analysis
+- Analytical Thinking
 
 ---
 
 ## 👨‍💻 Author
-
 **Nilesh Raut**  
 Aspiring Data Analyst
-
-
